@@ -35,7 +35,7 @@
     </assignments>
     <decisions>
         <name>Does_Contact_Exist</name>
-        <label>Does Contact Exist</label>
+        <label>Contacto No Existe</label>
         <locationX>365</locationX>
         <locationY>450</locationY>
         <defaultConnector>
